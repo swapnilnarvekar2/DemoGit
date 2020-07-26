@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Swapnil_suite" parallel="false">
+  <test name="Sanity_test">
+    <classes>
+      <class name="testNGPackage.Class1"/>
+      <class name="testNGPackage.Class2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
